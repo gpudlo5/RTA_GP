@@ -1,1 +1,1 @@
-# RTA_GP
+# Analiza danych w czasie rzeczywistym
